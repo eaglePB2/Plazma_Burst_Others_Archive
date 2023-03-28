@@ -1,2 +1,2 @@
-# Plazma_Burst_Others_Archive
-The Archives of Other Plazma Burst Related Flash with the newest open sourced resources.
+# Plazma-Burst-2-Archive
+The Archives of Plazma Burst 2 Flash with the newest open sourced resources.
